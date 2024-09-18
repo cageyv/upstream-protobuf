@@ -1,0 +1,22 @@
+{
+  "name": "upstream-protobuf",
+  "version": "1.0.0",
+  "description": "Placeholder. Not a real package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "author": "cageyv",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cageyv/upstream-protobuf.git"
+  },
+  "keywords": [
+    "upstream-protobuf"
+  ],
+  "bugs": {
+    "url": "https://github.com/cageyv/upstream-protobuf/issues"
+  },
+  "homepage": "https://github.com/cageyv/upstream-protobuf#readme"
+}
